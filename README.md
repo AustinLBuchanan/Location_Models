@@ -1,5 +1,5 @@
 # Location Models
-Example codes for facilities courses at Oklahoma State University (IEM 4203/5203). All codes are written in Python, use NetworkX for handling graphs, and solve linear and integer programs using the Gurobi optimizer.
+Example codes for facilities courses at Oklahoma State University (IEM 4203/5203). All codes are written in Python, handle graphs using NetworkX, and solve linear and integer programs using the Gurobi optimizer.
 
 ## NetworkX Codes
 1. [NetworkX_Basics](https://github.com/AustinLBuchanan/Location_Models/blob/main/NetworkX_Basics.ipynb)
