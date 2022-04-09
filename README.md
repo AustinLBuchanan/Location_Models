@@ -1,7 +1,7 @@
 # Location Models
 Example codes for facilities courses at Oklahoma State University (IEM 4203/5203). All codes are written in Python, use NetworkX for handling graphs, and solve linear and integer programs using the Gurobi optimizer.
 
-# NetworkX Codes
+## NetworkX Codes
 1. [NetworkX_Basics](https://github.com/AustinLBuchanan/Location_Models/blob/main/NetworkX_Basics.ipynb)
    - Creates a directed graph in NetworkX, adds nodes, adds (weighted) edges.
    - Writes the graph to an external .json file and reads it back in.
@@ -12,7 +12,7 @@ Example codes for facilities courses at Oklahoma State University (IEM 4203/5203
 3. [NetworkX_Roads](https://github.com/AustinLBuchanan/Location_Models/blob/main/NetworkX_Roads.ipynb)
    - Calculates distances in a [large undirected road network from Colorado with 1 million edges](http://www.diag.uniroma1.it/challenge9/download.shtml).
 
-# Gurobi Codes
+## Gurobi Codes
 1. [Gurobi_Shortest_Path](https://github.com/AustinLBuchanan/Location_Models/blob/main/Gurobi_Shortest_Path.ipynb)
    - Reads a directed graph from an external .json file.
    - Solves shortest path problem as an integer program, and then as a linear program.
