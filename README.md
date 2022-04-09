@@ -10,7 +10,7 @@ Example codes for facilities courses at Oklahoma State University (IEM 4203/5203
    - Calculates edge-weighted distances.
    - Finds (single-source) shortest paths.
 3. [NetworkX_Roads](https://github.com/AustinLBuchanan/Location_Models/blob/main/NetworkX_Roads.ipynb)
-   - Calculates distances in a [large road network from Colorado with 1 million edges](http://www.diag.uniroma1.it/challenge9/download.shtml).
+   - Calculates distances in a [large undirected road network from Colorado with 1 million edges](http://www.diag.uniroma1.it/challenge9/download.shtml).
 
 # Gurobi Codes
 1. [Gurobi_Shortest_Path](https://github.com/AustinLBuchanan/Location_Models/blob/main/Gurobi_Shortest_Path.ipynb)
